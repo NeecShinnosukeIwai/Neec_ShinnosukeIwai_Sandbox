@@ -1,6 +1,1 @@
-2026/05/15-09:38:21.789 5050 Log #6: 1 ops saved to Table #7 OK
-2026/05/15-09:38:21.798 5050 Archiving C:\Users\CGuser\Documents\GitHub\Neec_ShinnosukeIwai_Sandbox\NeecShinnosukeIwai\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
-2026/05/15-09:38:21.799 5050 Table #4: 2 entries OK
-2026/05/15-09:38:21.800 5050 Table #7: 1 entries OK
-2026/05/15-09:38:21.824 5050 Archiving C:\Users\CGuser\Documents\GitHub\Neec_ShinnosukeIwai_Sandbox\NeecShinnosukeIwai\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/05/15-09:38:21.856 5050 **** Repaired leveldb C:\Users\CGuser\Documents\GitHub\Neec_ShinnosukeIwai_Sandbox\NeecShinnosukeIwai\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 341 bytes. Some data may have been lost. ****
+2026/07/10-09:18:50.875 2dcc Reusing MANIFEST C:\Users\CGuser\Documents\GitHub\Neec_ShinnosukeIwai_Sandbox\NeecShinnosukeIwai\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
