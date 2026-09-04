@@ -1,9 +1,6 @@
-2026/07/24-11:05:32.283 34a8 Reusing MANIFEST C:\Users\CGuser\Documents\GitHub\Neec_ShinnosukeIwai_Sandbox\NeecShinnosukeIwai\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/07/24-11:05:32.285 2754 Compacting 4@0 + 0@1 files
-2026/07/24-11:05:32.292 2754 Generated table #16@0: 2 keys, 191 bytes
-2026/07/24-11:05:32.292 2754 Compacted 4@0 + 0@1 files => 191 bytes
-2026/07/24-11:05:32.293 2754 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/07/24-11:05:32.294 2754 Delete type=2 #4
-2026/07/24-11:05:32.294 2754 Delete type=2 #7
-2026/07/24-11:05:32.294 2754 Delete type=2 #10
-2026/07/24-11:05:32.294 2754 Delete type=2 #13
+2026/09/04-09:58:41.043 12d04 Log #15: 2 ops saved to Table #17 OK
+2026/09/04-09:58:41.050 12d04 Archiving C:\Users\shinn\Documents\GitHub\Neec_ShinnosukeIwai_Sandbox\NeecShinnosukeIwai\Saved\webcache_6613\Default\Site Characteristics Database/000015.log: OK
+2026/09/04-09:58:41.051 12d04 Table #16: 2 entries OK
+2026/09/04-09:58:41.051 12d04 Table #17: 2 entries OK
+2026/09/04-09:58:41.054 12d04 Archiving C:\Users\shinn\Documents\GitHub\Neec_ShinnosukeIwai_Sandbox\NeecShinnosukeIwai\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/09/04-09:58:41.063 12d04 **** Repaired leveldb C:\Users\shinn\Documents\GitHub\Neec_ShinnosukeIwai_Sandbox\NeecShinnosukeIwai\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 381 bytes. Some data may have been lost. ****
