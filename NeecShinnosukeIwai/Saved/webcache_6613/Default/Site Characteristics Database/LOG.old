@@ -1,6 +1,7 @@
-2026/09/04-09:58:41.043 12d04 Log #15: 2 ops saved to Table #17 OK
-2026/09/04-09:58:41.050 12d04 Archiving C:\Users\shinn\Documents\GitHub\Neec_ShinnosukeIwai_Sandbox\NeecShinnosukeIwai\Saved\webcache_6613\Default\Site Characteristics Database/000015.log: OK
-2026/09/04-09:58:41.051 12d04 Table #16: 2 entries OK
-2026/09/04-09:58:41.051 12d04 Table #17: 2 entries OK
-2026/09/04-09:58:41.054 12d04 Archiving C:\Users\shinn\Documents\GitHub\Neec_ShinnosukeIwai_Sandbox\NeecShinnosukeIwai\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/09/04-09:58:41.063 12d04 **** Repaired leveldb C:\Users\shinn\Documents\GitHub\Neec_ShinnosukeIwai_Sandbox\NeecShinnosukeIwai\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 381 bytes. Some data may have been lost. ****
+2026/10/09-09:12:21.639 5bf4 Log #19: 1 ops saved to Table #20 OK
+2026/10/09-09:12:21.645 5bf4 Archiving C:\Users\CGuser\Documents\GitHub\Neec_ShinnosukeIwai_Sandbox\NeecShinnosukeIwai\Saved\webcache_6613\Default\Site Characteristics Database/000019.log: OK
+2026/10/09-09:12:21.652 5bf4 Table #16: 2 entries OK
+2026/10/09-09:12:21.657 5bf4 Table #17: 2 entries OK
+2026/10/09-09:12:21.657 5bf4 Table #20: 1 entries OK
+2026/10/09-09:12:21.676 5bf4 Archiving C:\Users\CGuser\Documents\GitHub\Neec_ShinnosukeIwai_Sandbox\NeecShinnosukeIwai\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/10/09-09:12:21.693 5bf4 **** Repaired leveldb C:\Users\CGuser\Documents\GitHub\Neec_ShinnosukeIwai_Sandbox\NeecShinnosukeIwai\Saved\webcache_6613\Default\Site Characteristics Database; recovered 3 files; 543 bytes. Some data may have been lost. ****
